@@ -10,6 +10,8 @@ modeling approach, and the result.
 
 ## Skills demonstrated
 
+- **Statistical analysis** — descriptive & inferential statistics, confidence
+  intervals, hypothesis testing, and regression
 - **Optimization & prescriptive analytics** — linear, nonlinear, and integer
   programming with Excel **Solver**
 - **Decision modeling** — product mix, capital budgeting, pricing, logistics, and
@@ -18,6 +20,20 @@ modeling approach, and the result.
 - **Financial modeling** — Net Present Value (NPV) and regression-driven decisions
 
 ## Projects
+
+### [Statistical Analysis](statistical-analysis/)
+
+A ~60-sheet workbook analyzing an anonymized MBA-graduate dataset, from descriptive
+statistics through hypothesis testing and regression — using PivotTables,
+dynamic-array formulas, and the Excel Analysis ToolPak.
+
+| Area | What it shows |
+|---|---|
+| Descriptive statistics | Distributions, central tendency, variability, quartiles, box plots |
+| Probability | Z-scores, the normal distribution, `NORM.*` functions |
+| Confidence intervals | Means (z/t), proportions, and differences between samples |
+| Hypothesis testing | One/two-tailed tests for means, proportions, and paired/two-sample data |
+| Regression | Correlation, simple & multiple linear regression, R², model evaluation |
 
 ### [Optimization Models](optimization-models/)
 

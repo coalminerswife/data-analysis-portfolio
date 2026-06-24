@@ -1,0 +1,10 @@
+# Excel temporary lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# macOS
+.DS_Store
+
+# Office temp
+*.tmp

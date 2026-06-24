@@ -11,6 +11,24 @@ inferential statistics and regression modeling.
 > **Data note:** the dataset uses anonymized Student IDs (no names or personal
 > identifiers). It's a sample/teaching dataset used to demonstrate technique.
 
+## Sample output
+
+**Simple linear regression** — predicting a student's post-program employability
+score from their pre-program score (correlation ≈ 0.95), with fitted trendline and
+a prediction:
+
+![Simple linear regression predicting employability score, with scatterplot and fitted trendline](screenshots/simple-linear-regression.png)
+
+**Multiple linear regression** — modeling employability improvement from several
+predictors (grades, prior scores, salary):
+
+![Multiple linear regression of employability improvement](screenshots/multiple-linear-regression.png)
+
+**Regression via the Excel Analysis ToolPak** — full summary output, ANOVA table,
+significance tests, and a residual plot for model diagnostics:
+
+![Analysis ToolPak regression output showing summary statistics, ANOVA, and a residual plot](screenshots/regression-analysis-toolpak.png)
+
 ## What it covers
 
 ### 1. Descriptive statistics
